@@ -1,0 +1,10 @@
+0000.027 (0) Opened log file at time: Mon, 02 Dec 2013 00:00:12 +0100
+0000.077 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.7.41 WP: 3.7.1 PHP: 5.3.3 (Linux czechtransfers.com 2.6.18-164.6.1.el5xen #1 SMP Tue Nov 3 16:48:13 EST 2009 x86_64) MySQL: 5.0.95 Server: Apache/2.2.3 (CentOS) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.3M | 34.8M) multisite: N mcrypt: Y ZipArchive::addFile: Y W3TC/ObjectCache: N
+0000.082 (0) Free space on disk containing Updraft's temporary directory: 115.6 Mb
+0000.482 (0) Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.483 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 
+0000.572 (0) Decremented the semaphore (fd) by 1
+0000.574 (0) Semaphore (fd) still locked
+0000.574 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0000.626 (0) No email will be sent - this backup set was empty.
+0000.627 (0) The backup has not finished; a resumption is scheduled

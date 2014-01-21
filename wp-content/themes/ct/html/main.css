@@ -1,0 +1,290 @@
+body {
+    background: none no-repeat scroll right top white;
+    font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+}
+
+a {
+    color: #006699;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a img {
+    border: 0px;
+}
+
+td { vertical-align: top; }
+
+.home h1 {
+    display:none;
+}
+
+#header-stripe-first {
+    background: url('img/header-stripe-first.png') repeat-x;
+    height: 40px;
+    width: 100%;
+    margin: 0px auto;
+    border-bottom: 1px solid white;
+}
+
+#header-stripe-second {
+    height: 134px;
+    background: url('img/header-stripe-second.png') repeat-x;
+    width: 100%;
+    margin: 0px auto;
+}
+
+
+#logo {
+    background: url('img/logo-bg.png');
+    width: 960px;
+    height: 134px;
+}
+
+#about {
+    position: relative;
+    top: -100px;
+    left: 400px;
+    width: 560px;
+    height: 80px;
+    font-size: 14px;
+    color: white;
+}
+
+#about strong {
+    color:#99ffff;
+    font-weight: bold;
+}
+
+#main-menu {
+    float: left;
+}
+
+#main-menu ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+#main-menu li {
+    display: inline;
+    color: #006699;
+    font-size: 18px;
+    margin-right: 30px;
+}
+
+#main-menu li a {
+    color: #006699;
+    text-decoration: none;
+}
+
+#main-menu li a:hover {
+    color: #66ccff;
+}
+
+#call-us {
+    float: right;
+    color: #006699;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+#main {
+    min-height: 500px;
+}
+
+#content {
+    padding: 20px 0px 20px 0px;
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: left;
+}
+
+.box {
+    border: 1px solid black;
+}
+
+#footer-stripe {
+   background: url('img/footer-stripe.png') repeat-x;
+   width: 100%;
+   margin: 0px auto;
+   height: 148px;
+}
+
+#footer-stripe .wrapper {
+   background: url('img/footer-stripe-wrapper.png') no-repeat;
+   width: 960px;
+   height:148px;
+}
+
+#footer-links {
+    float: left;
+}
+
+#footer-links ul {
+    list-style-type: none;
+    padding: 20px 100px 0px 0px;    
+    margin: 0px;
+}
+
+#footer-links ul li {
+    font-size: 14px;
+    color: white;
+    line-height: 24px;
+}
+
+#footer-links ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+#footer-links ul li a:hover {
+    text-decoration: underline;
+}
+
+#made-by {
+    float: right;
+    margin: 0px;
+    padding: 100px 100px 0px 100px;
+    font-size: 10px;
+    color: white;
+}
+#made-by img {
+    position :relative;
+    top: 5px;
+    left: 10px;
+}
+
+#slider .wrapper {
+    min-height: 300px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+#block-left {
+    margin-right: 10px;
+    float: left;
+}
+
+#block-right {
+    margin-left: 10px;
+    float: right;
+}
+
+.block {
+    min-height: 200px;
+    width: 460px;
+    margin-bottom: 40px;
+}
+
+.block-top-left {
+    background: url('img/block-top-left.png') no-repeat;
+    width: 12px;
+    height: 52px;
+    float: left;
+}
+
+.block-top-right {
+    background: url('img/block-top-right.png') no-repeat;
+    width: 12px;
+    height: 52px;
+    float: right;
+}
+
+.block-top-fill {
+    background: url('img/block-top-fill.png') repeat-x;
+    height: 52px;
+    float: left;
+    width: 436px;
+}
+
+.block-bottom-left {
+    background: url('img/block-bottom-left.png') no-repeat;
+    width: 12px;
+    height: 12px;
+    float: left;
+}
+
+.block-bottom-right {
+    background: url('img/block-bottom-right.png') no-repeat;
+    width: 12px;
+    height: 12px;
+    float: right;
+}
+
+.block-bottom-fill {
+    height: 12px;
+    float: left;
+    width: 436px;
+    border-bottom: 1px solid #003366;
+}
+
+.block-top-fill h2 {
+    background: transparent;
+    display: inline;
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 52px;
+}
+
+.block-content {
+    clear: both;
+    border-left: 1px solid #003366;
+    border-right: 1px solid #003366;
+    margin: 0px;
+    padding: 10px 10px 0px 10px;
+}
+
+.block-content ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.block-content ul li {
+    font-size: 18px;
+    padding-bottom: 5px;
+    color: #003366;
+}
+
+.block-content p {
+    margin-bottom: 0px;
+}
+
+.clear {
+    clear: both;
+}
+
+.prague-prices td {
+    background-color: #dddddd;
+    padding: 15px;
+}
+
+.row_form {    
+    padding-bottom: 40px;
+    clear: both;
+}
+
+.row_form label {
+    width: 180px;
+    float: left;
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 3px;
+}
+
+.row_form span {
+    float: left;
+}
